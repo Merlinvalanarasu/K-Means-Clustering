@@ -1,3 +1,5 @@
 ## Customer Segmentation Visualization
 
-[View the interactive 3D scatter plot](customer_segmentation.html)
+[View the Project here](test.html)
+
+[View the interactive 3D scatter plot here](customer_segmentation.html)
