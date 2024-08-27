@@ -1,9 +1,8 @@
 # Customer Segmentation Using K-Means Clustering
 
-For a detailed view of the analysis, please refer to the Jupyter Notebook and visualizations provided in this repository. [here](https://merlinvalanarasu.github.io/PRODIGY_ML_01/).
+For a detailed view of the analysis, please refer to the Jupyter Notebook and visualizations provided in this repository. [here](https://merlinvalanarasu.github.io/PRODIGY_ML_02/).
 
-The Final Interactive Visualization is also hosted on a website, which can be accessed here
-[View the interactive 3D scatter plot here](customer_segmentation.html)
+The Final Interactive Visualization is also hosted on a website
 
 This project focuses on customer segmentation using K-Means clustering, a popular machine learning algorithm. The data used for this analysis comes from a dataset of mall customers, including features like Age, Gender, Annual Income, and Spending Score. The goal is to identify distinct groups within the customer base to tailor marketing strategies effectively.
 
